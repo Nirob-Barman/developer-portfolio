@@ -105,7 +105,7 @@ section {
 
 .section-description {
     color: #757575;
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 18px;
     margin-bottom: 30px;
 }
@@ -115,8 +115,8 @@ section {
     justify-content: space-around;
 }
 
-.info-title {
-    font-weight: 700;
+.about .info-title {
+    /* font-weight: 700; */
     font-size: 20px;
     color: #474747;
 }
