@@ -185,6 +185,7 @@ section {
 
 .resume-button {
     margin-top: 50px;
+    text-align: center;
 }
 
 /* contract-section */
@@ -198,7 +199,7 @@ section {
     text-align: left;
 }
 
-.contract input, textarea {
+.contract input[type="text"], input[type="email"], textarea {
     margin-bottom: 24px;
     border: 0;
     width: 100%;
