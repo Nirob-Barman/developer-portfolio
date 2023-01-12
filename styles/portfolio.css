@@ -59,19 +59,18 @@ nav li {
 .banner-title {
     font-weight: 700;
     font-size: 85px;
-    /* margin-bottom: 5px; */
 }
 
 .banner-sub-title {
     font-weight: 600;
     font-size: 45px;
-    /* color: #474747; */
+    color: #474747;
     margin-bottom: 20px;
 }
 
 .banner-description {
     color: #757575;
-    /* font-weight: 400; */
+    font-weight: 400;
     font-size: 18px;
     margin-bottom: 30px;
 }
@@ -89,7 +88,6 @@ section {
 
 /* About section styles */
 .about {
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -105,7 +103,7 @@ section {
 
 .section-description {
     color: #757575;
-    /* font-weight: 400; */
+    font-weight: 400;
     font-size: 18px;
     margin-bottom: 30px;
 }
@@ -116,7 +114,7 @@ section {
 }
 
 .about .info-title {
-    /* font-weight: 700; */
+    font-weight: 700;
     font-size: 20px;
     color: #474747;
 }
