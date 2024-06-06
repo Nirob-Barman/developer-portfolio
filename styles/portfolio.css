@@ -209,3 +209,18 @@ input {
 .contract a{
     text-decoration: none;
 }
+
+.footer {
+    background: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.footer-links {
+    margin-top: 10px;
+}
+.footer-links a {
+    color: #FD6E0A;
+    text-decoration: none;
+    margin: 0 10px;
+}
